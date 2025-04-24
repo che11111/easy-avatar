@@ -1,6 +1,6 @@
 # easy-avatar
 
-<img src="easy-avatar.png" width="300" height="300" alt="image">
+<img src="easy-avatar.png"  height="300" alt="image">
 
 A simple alternative to the Gravatar avatar website.
 
