@@ -1,5 +1,7 @@
 # easy-avatar
 
+<img src="easy-avatar.png" width="300" height="300" alt="image">
+
 A simple alternative to the Gravatar avatar website.
 
 You just need to convert a user's email to MD5 hash and name a `.png` file with this hash value, then place it in the `img` folder which is one level below `avatar.php`.
